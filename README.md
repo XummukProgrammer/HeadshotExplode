@@ -9,13 +9,11 @@
 
 # Квары
 
-| Название | Значение | Описание |
-|--|--|--|
-| hexd_enable | true/false | Включить плагин? |
-| hexd_particle_file | "particles/explosions_fx/c4_train_ground_effect.vpcf" **(По умолчанию)**  | Файл партикля. |
-| hexd_particle_life_time | 1 **(По умолчанию)** | Время жизни партикля. |
-| hexd_particle_origin | "0 0 50" **(По умолчанию)** | Смещение позиции партикля относительно ног игрока. |
-| hexd_sound | "hexd.explode" **(По умолчанию)** | Звук взрыва. |
+- hexd_enable | true/false | Включить плагин?
+- hexd_particle_file | "particles/explosions_fx/c4_train_ground_effect.vpcf" **(По умолчанию)** | Файл партикля.
+- hexd_particle_life_time | 1 **(По умолчанию)** | Время жизни партикля.
+- hexd_particle_origin | "0 0 50" **(По умолчанию)** | Смещение позиции партикля.
+- hexd_sound | "hexd.explode" **(По умолчанию)** | Звук взрыва.
 
 # Установка
 
