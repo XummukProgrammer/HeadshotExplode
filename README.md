@@ -10,7 +10,7 @@
 # Квары
 
 | Название | Значение | Описание |
-|--|--|
+|--|--|--|
 | hexd_enable | true/false | Включить плагин? |
 | hexd_particle_file | "particles/explosions_fx/c4_train_ground_effect.vpcf" **(По умолчанию)**  | Файл партикля. |
 | hexd_particle_life_time | 1 **(По умолчанию)** | Время жизни партикля. |
